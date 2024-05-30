@@ -1,0 +1,17 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<!--
+https://go.microsoft.com/fwlink/?LinkID=208121.
+-->
+<Project>
+  <PropertyGroup>
+    <_PublishTargetUrl>C:\MyProjects\Technopark Deployed Version</_PublishTargetUrl>
+    <History>True|2024-03-17T15:27:46.5191284Z;True|2024-03-17T20:30:46.7544738+06:30;True|2024-03-17T20:07:05.1873350+06:30;True|2024-03-17T19:52:32.2182451+06:30;True|2024-03-17T19:48:52.7906746+06:30;True|2024-03-17T17:00:49.4547570+06:30;True|2024-03-17T16:33:52.6325190+06:30;True|2024-03-17T16:29:30.2723172+06:30;False|2024-03-17T16:28:29.9067814+06:30;True|2024-03-17T16:22:56.6882805+06:30;</History>
+    <LastFailureDetails />
+    <TimeStampOfAssociatedLegacyPublishXmlFile />
+  </PropertyGroup>
+  <ItemGroup>
+    <DestinationConnectionStrings Include="TechnoParkDBConnection">
+      <Value>Data Source=YB-LT2011\\SQLEXPRESS%3bInitial Catalog=Technopark_DB%3bTrustServerCertificate=True%3bUser Id=sa%3bPassword=Raptor22%2a%2a</Value>
+    </DestinationConnectionStrings>
+  </ItemGroup>
+</Project>
